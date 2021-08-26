@@ -1,0 +1,13 @@
+C:\Users\Jhenny Cassol\source\repos\Pitagoras\Pitagoras\bin\Debug\netcoreapp3.1\Pitagoras.exe
+C:\Users\Jhenny Cassol\source\repos\Pitagoras\Pitagoras\bin\Debug\netcoreapp3.1\Pitagoras.deps.json
+C:\Users\Jhenny Cassol\source\repos\Pitagoras\Pitagoras\bin\Debug\netcoreapp3.1\Pitagoras.runtimeconfig.json
+C:\Users\Jhenny Cassol\source\repos\Pitagoras\Pitagoras\bin\Debug\netcoreapp3.1\Pitagoras.runtimeconfig.dev.json
+C:\Users\Jhenny Cassol\source\repos\Pitagoras\Pitagoras\bin\Debug\netcoreapp3.1\Pitagoras.dll
+C:\Users\Jhenny Cassol\source\repos\Pitagoras\Pitagoras\bin\Debug\netcoreapp3.1\Pitagoras.pdb
+C:\Users\Jhenny Cassol\source\repos\Pitagoras\Pitagoras\obj\Debug\netcoreapp3.1\Pitagoras.csproj.AssemblyReference.cache
+C:\Users\Jhenny Cassol\source\repos\Pitagoras\Pitagoras\obj\Debug\netcoreapp3.1\Pitagoras.AssemblyInfoInputs.cache
+C:\Users\Jhenny Cassol\source\repos\Pitagoras\Pitagoras\obj\Debug\netcoreapp3.1\Pitagoras.AssemblyInfo.cs
+C:\Users\Jhenny Cassol\source\repos\Pitagoras\Pitagoras\obj\Debug\netcoreapp3.1\Pitagoras.csproj.CoreCompileInputs.cache
+C:\Users\Jhenny Cassol\source\repos\Pitagoras\Pitagoras\obj\Debug\netcoreapp3.1\Pitagoras.dll
+C:\Users\Jhenny Cassol\source\repos\Pitagoras\Pitagoras\obj\Debug\netcoreapp3.1\Pitagoras.pdb
+C:\Users\Jhenny Cassol\source\repos\Pitagoras\Pitagoras\obj\Debug\netcoreapp3.1\Pitagoras.genruntimeconfig.cache
